@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-<!--
-**alexiscureno/alexiscureno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 -👋 Hi, I'm @alexiscureno!
 
 -👀  Currently, I'm expanding my skills in Nuke for scripting tools, as well as learning more about AI and machine learning.
