@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello there 👋 ![star-wars-obi-wan-kenobi](https://user-images.githubusercontent.com/19346476/226143671-8d7cdac8-1ad8-44fc-93b3-39f0bc3c1a84.gif)
 
 * 👋 Hi, I'm @alexiscureno!
 
